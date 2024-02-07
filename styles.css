@@ -1,16 +1,19 @@
 body {
   text-align: center;
   background-color: #011f3f;
+  font-family: "Press Start 2P", cursive;
+}
+
+h1 {
+  color: #fef2bf;
 }
 
 #level-title {
-  font-family: "Press Start 2P", cursive;
-  font-size: 2rem;
+  font-size: 1.25rem;
   margin: 2%;
   color: #fef2bf;
 }
 #level-instruction {
-  font-family: "Press Start 2P", cursive;
   font-size: 0.75rem;
   color: #fef2bf;
 }
